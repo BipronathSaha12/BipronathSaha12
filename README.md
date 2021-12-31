@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning JavaScript
 - 👯 I’m looking to collaborate on Github
 - 💬 Ask me about HTML, CSS, BOOTSTRAP, JS , Python
-- 📫 How to reach me: bipronathsaha99@gmail.com
+- 📫 How to reach me: bipronathsaha@gmail.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I'm happy with listening musics
 
