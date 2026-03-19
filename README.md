@@ -5,10 +5,11 @@
 
 <h3 align="left">👨‍💻 About Me</h3>
 
+- 🌱 I’m currently working in  **Python Django**
 - 🌱 I’m currently learning **JavaScript & React**
 - 👯 I’m looking to collaborate on **GitHub Open Source Projects**
-- 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript, Python**
-- 📫 How to reach me: **bipronathsaha@gmail.com**
+- 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript, Python, Django**
+- 📫 How to reach me: **https://linkedin.com/in/bipronath-saha**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: I enjoy listening to music while coding
 
