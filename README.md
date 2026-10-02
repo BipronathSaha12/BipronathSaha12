@@ -1,13 +1,13 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E65F3&center=true&vcenter=true&width=600&lines=Hi+%F0%9F%90%8B%2C+I'm+Bipronath+Saha;Full-Stack+Web+Developer;Embedded+Systems+Engineer;IoT+%26+Hardware+Integration;Cloud+%26+Backend+Architect" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E65F3&center=true&vcenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Bipronath+Saha;Full-Stack+Web+Developer;React+%2B+Django+%2B+PostgreSQL" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <strong>Full-Stack Web Developer & Embedded Systems Engineer</strong>
+  <strong>Full-Stack Web Developer</strong>
 </p>
 
 <p align="center">
-  Specializing in end-to-end web applications, embedded hardware firmware (C/C++, ESP32), real-time IoT telemetry pipelines, and scalable cloud backends.
+  Crafting scalable, high-performance web applications with modern frontend frameworks and robust backend architectures. Specialized in end-to-end full-stack development using React.js, Django, and PostgreSQL.
 </p>
 
 <p align="center">
@@ -18,53 +18,62 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Bangladesh-blue?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
-  <img src="https://img.shields.io/badge/Role-Full--Stack%20%26%20Embedded%20Engineer-0052CC?style=flat-square" alt="Role" />
+  <img src="https://img.shields.io/badge/Role-Full--Stack%20Web%20Developer-0052CC?style=flat-square" alt="Role" />
   <img src="https://img.shields.io/badge/Status-Open%20for%20Opportunities-success?style=flat-square" alt="Status" />
 </p>
 
 ---
 
-## 👨‍💻 Executive Summary
+## 👨‍💻 Professional Summary
 
-I am a **Full-Stack Web Developer & Embedded Systems Engineer** dedicated to bridging physical hardware devices with high-performance, modern web applications. With expertise spanning embedded C/C++ firmware development, IoT real-time streaming, scalable backend APIs, and responsive user interfaces, I engineer robust systems built for real-world reliability and performance.
+I am a dedicated **Full-Stack Web Developer** with a passion for building modern, scalable web applications that deliver exceptional user experiences. With expertise spanning both frontend and backend technologies, I create seamless, responsive applications that solve real-world problems efficiently.
+
+I specialize in architecting complete web solutions—from intuitive React-based user interfaces to robust Django REST APIs backed by PostgreSQL databases. My development philosophy emphasizes clean code, performance optimization, security best practices, and maintainability.
 
 ### 💡 Core Technical Capabilities
-- 🔌 **Embedded Systems & Firmware:** Writing low-level firmware in C/C++ for microcontrollers (ESP32, Arduino, STM32), hardware sensor integration, and low-power IoT communication.
-- 📡 **IoT & Real-Time Telemetry:** Designing end-to-end telemetry pipelines using MQTT, WebSockets, and HTTP/REST to stream live hardware sensor metrics to cloud servers.
-- ⚙️ **Full-Stack Web & API Engineering:** Developing responsive frontend UIs (React, JavaScript ES6+, Tailwind CSS) backed by scalable APIs (Python, Django REST Framework, Node.js).
-- ☁️ **Cloud Infrastructure & DevOps:** Deploying containerized applications (Docker, Kubernetes) on cloud platforms (AWS) with automated CI/CD workflows via GitHub Actions.
-- 🛡️ **System Reliability & Security:** Implementing secure token authentication (JWT, OAuth), role-based access control, and real-time monitoring for high uptime.
+
+- 🎨 **Frontend Development:** Building responsive, interactive user interfaces with React.js, modern JavaScript (ES6+), HTML5, CSS3, and Tailwind CSS for seamless user experiences across all devices.
+- 🔧 **Backend Engineering:** Designing and developing scalable RESTful APIs using Django and Django REST Framework with proper authentication, authorization, and business logic implementation.
+- 🗄️ **Database Architecture:** Designing normalized, optimized PostgreSQL schemas, implementing complex queries, database indexing, and ensuring data integrity and performance at scale.
+- 🔐 **Security & Authentication:** Implementing secure authentication systems using JWT tokens, OAuth integration, role-based access control (RBAC), and best practices for protecting sensitive data.
+- 📡 **API Design & Integration:** Creating well-structured RESTful APIs, integrating third-party services, and building efficient data pipelines for seamless client-server communication.
+- 🚀 **Cloud Deployment & DevOps:** Containerizing applications with Docker, deploying on cloud platforms, implementing CI/CD workflows with GitHub Actions for automated testing and deployment.
 
 ---
 
 ## 🛠️ Technical Ecosystem
 
-| Domain | Technologies & Frameworks |
+| Category | Technologies & Frameworks |
 | :--- | :--- |
-| **Embedded & Hardware** | `ESP32` `C / C++` `Arduino` `MQTT` `UART / SPI / I2C` `FreeRTOS` `Sensor Protocols` |
-| **Full-Stack Web** | `JavaScript (ES6+)` `React` `HTML5 / CSS3` `Tailwind CSS` `RESTful APIs` `WebSockets` |
-| **Backend & Databases** | `Python` `Django REST Framework` `Node.js` `Express` `PostgreSQL` `Redis` |
-| **Cloud & DevOps** | `AWS` `Docker` `Kubernetes` `GitHub Actions` `CI/CD` `Linux` `Nginx` `Git` |
-| **Architecture & Security** | `Microservices` `IoT Device Management` `JWT Auth` `System Observability` |
+| **Frontend** | `React.js` `JavaScript (ES6+)` `HTML5` `CSS3` `Tailwind CSS` `RESTful APIs` `Responsive Design` |
+| **Backend** | `Python` `Django` `Django REST Framework` `RESTful API Design` `Business Logic` |
+| **Databases** | `PostgreSQL` `SQL` `Database Design` `Query Optimization` `Data Modeling` |
+| **Tools & Version Control** | `Git` `GitHub` `VS Code` `Postman` `pgAdmin` |
+| **DevOps & Deployment** | `Docker` `GitHub Actions` `CI/CD` `Linux` `Nginx` `Environment Management` |
+| **Development Practices** | `Agile/Scrum` `RESTful Architecture` `Clean Code` `Testing` `Documentation` |
 
 ---
 
-## 🚀 Featured Engineering Projects
+## 🚀 Featured Full-Stack Projects
 
 ```
-├── 📡 Real-Time IoT Hardware & Telemetry System
-│   ├── Low-power ESP32 microcontroller firmware executing real-time sensor processing
-│   ├── High-throughput MQTT telemetry stream connected to a cloud backend
-│   └── Live interactive web dashboard for real-time visualization and remote device control
+├── 🛒 Scalable E-Commerce & Management Platform
+│   ├── React.js frontend with Tailwind CSS for responsive, modern UI
+│   ├── Django REST Framework backend with PostgreSQL database
+│   ├── JWT authentication and role-based access control
+│   └── Docker containerization and GitHub Actions CI/CD pipeline
 │
-├── 🛒 Cloud-Native Full-Stack E-Commerce & Management Platform
-│   ├── Scalable RESTful API architecture built with Django REST Framework & PostgreSQL
-│   ├── Containerized with Docker and deployed via GitHub Actions CI/CD automation
-│   └── Dynamic, mobile-responsive user experience built with React & Tailwind CSS
+├── 📊 Data-Driven Analytics Dashboard
+│   ├── Interactive React.js dashboard with data visualization
+│   ├── High-performance Django APIs for real-time data processing
+│   ├── PostgreSQL with optimized queries for analytics
+│   └── Automated data pipeline with robust error handling
 │
-└── ⚡ Edge Computing & Infrastructure Automation
-    ├── Edge node telemetry ingestion with fault-tolerant offline data buffering
-    └── Containerized environment provisioning, centralized logging, and system health checks
+└── 🔐 Secure User Management System
+    ├── User authentication and authorization with JWT tokens
+    ├── Django backend with comprehensive permission management
+    ├── PostgreSQL with encrypted sensitive data storage
+    └── Mobile-responsive React frontend with intuitive UX
 ```
 
 ---
@@ -84,12 +93,14 @@ I am a **Full-Stack Web Developer & Embedded Systems Engineer** dedicated to bri
 
 ## 🤝 Let's Connect & Collaborate
 
-I am open to **Full-Stack Web Development**, **Embedded & IoT Engineering**, **Consulting Contracts**, and **Innovative Tech Collaborations**.
+I am open to **Full-Stack Web Development opportunities**, **Contract Projects**, **Technical Consulting**, and **Innovative Web Collaborations**.
 
 - 💼 **LinkedIn:** [Bipronath Saha](https://linkedin.com/in/bipronath-saha)
 - 🌐 **Portfolio:** [bipronathsaha12.github.io/bipronathsaha](https://bipronathsaha12.github.io/bipronathsaha)
-- 📬 **Direct Email:** [bipronathsaha@gmail.com](mailto:bipronathsaha@gmail.com)
+- 📬 **Email:** [bipronathsaha@gmail.com](mailto:bipronathsaha@gmail.com)
+
+---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E65F3,100:0052CC&height=120&section=footer&text=Bridging%20Hardware%20%26%20Web%20Technology&fontSize=20&animation=fadeIn&fontColor=ffffff" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E65F3,100:0052CC&height=120&section=footer&text=Building%20Great%20Web%20Experiences&fontSize=20&animation=fadeIn&fontColor=ffffff" alt="Footer" />
 </p>
