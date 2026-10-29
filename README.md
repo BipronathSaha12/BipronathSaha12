@@ -7,14 +7,15 @@
 <p align="center">
   <a href="https://bipronathsaha.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/bipronath-saha/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://x.com/BipronathS" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter" /></a>
+  <a href="https://x.com/BipronathS" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" /></a>
+  <a href="https://github.com/BipronathSaha12" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="mailto:bipronathsaha@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <p align="center">
   I build production-grade web applications using Python, Django, Django REST Framework, FastAPI, and React.js.<br>
-  I design secure APIs, scalable backend systems, and responsive frontend experiences with a strong focus on performance, maintainability, and product impact.<br>
-  I work across architecture, feature delivery, and cloud deployment to turn ideas into reliable digital products.
+  I design secure APIs, scalable backend systems, and responsive frontends with a strong focus on performance, maintainability, and product impact.<br>
+  I work across system design, product delivery, and deployment to turn ideas into reliable digital experiences.
 </p>
 
 ---
@@ -22,24 +23,24 @@
 ## What I Do
 
 ### Frontend Architecture
-- Building fast, responsive, component-driven SPAs using React.js, Vite, Tailwind CSS, and modern state management patterns.
-- Creating polished interfaces with clean UX, maintainable component design, and scalable frontend architecture.
+- Building fast, responsive, component-driven SPAs with React.js, Vite, Tailwind CSS, and modern state management patterns.
+- Designing clean user interfaces with focus on usability, accessibility, maintainability, and product clarity.
 
 ### Backend & API Engineering
-- Designing secure, scalable RESTful and real-time APIs with Django, Django REST Framework (DRF), and FastAPI.
-- Implementing JWT/OAuth2 authentication, RBAC authorization, API validation, schema design, and performance tuning.
+- Designing secure, scalable RESTful and real-time APIs using Django, DRF, and FastAPI.
+- Implementing JWT/OAuth2 authentication, RBAC authorization, schema validation, and high-performance API patterns.
 
 ### Database & Async Systems
-- Optimizing relational schemas in PostgreSQL, MySQL, and SQLite for performance, integrity, and maintainability.
-- Building asynchronous systems with Redis, Celery, caching, and rate-limiting for production-ready workloads.
+- Optimizing relational data models in PostgreSQL, MySQL, and SQLite for performance and reliability.
+- Building async workflows with Redis, Celery, caching, rate limiting, and background job processing for production-ready systems.
 
 ### AI Integration & Cloud DevOps
-- Integrating AI-powered workflows into web apps to improve user experience, automation, and business intelligence.
-- Deploying containerized applications via Docker, CI/CD pipelines with GitHub Actions, and modern cloud hosting platforms like Vercel.
+- Integrating AI-powered workflows into web products for improved user experience and automation.
+- Deploying containerized apps with Docker, CI/CD pipelines via GitHub Actions, and cloud hosting on Vercel.
 
 ---
 
-## Modern Full-Stack Tech Stack
+## Tech Stack
 
 ### Languages
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
@@ -80,22 +81,22 @@
 
 ---
 
-## Flagship Full-Stack Projects
+## Flagship Projects
 
-| Project | What I Built |
+| Project | Description |
 | :--- | :--- |
-| [FolioVerse](https://github.com/BipronathSaha12/FolioVerse) | Full-stack developer portfolio and showcase platform engineered with 4-layer security hardening, RBAC permissions, Redis rate-limiting, Django REST Framework, and React.js. |
-| [JobTrail](https://github.com/BipronathSaha12/jobtrail-frontend) | Full-stack job application tracker and career pipeline management platform with interactive status workflows, analytics dashboards, and a RESTful backend. |
-| [NexaChat](https://github.com/BipronathSaha12/nexachat) | Real-time full-stack messaging and chat application featuring instant communication, user presence, secure authentication, and responsive UI patterns. |
-| [PrismaAI](https://github.com/BipronathSaha12/prisma-ai) | AI-powered full-stack web platform integrating intelligent content generation and analysis workflows with a scalable API backend and modern interface. |
-| [Nexus Explorer](https://github.com/BipronathSaha12/nexus-explorer) | Modern web exploration and discovery application built with a fast frontend interface, dynamic search/filtering, and API-driven content delivery. |
-| [EventFlow](https://github.com/BipronathSaha12/EventFlow) | End-to-end event management, scheduling, and ticketing platform with role-based workflows, registration logic, and polished UX. |
-| [LexiDeck](https://github.com/BipronathSaha12/lexideck-frontend) | Full-stack spaced-repetition flashcard and vocabulary mastery web app powered by Django REST Framework and React.js for Vercel deployment. |
-| [PricePulse](https://github.com/BipronathSaha12/PricePulse) | Full-stack product tracking and price monitoring platform built to detect pricing changes, provide actionable insights, and support decision-making workflows. |
+| [FolioVerse](https://github.com/BipronathSaha12/FolioVerse) | Full-stack developer portfolio and showcase platform with layered security, RBAC, rate limiting, and modern architecture. |
+| [JobTrail](https://github.com/BipronathSaha12/jobtrail-frontend) | Full-stack job tracking and career pipeline platform with workflow automation, analytics, and a RESTful backend. |
+| [NexaChat](https://github.com/BipronathSaha12/nexachat) | Real-time chat application built for instant communication, user presence, and secure authentication flows. |
+| [PrismaAI](https://github.com/BipronathSaha12/prisma-ai) | AI-powered web application with modern UI patterns and scalable backend support for intelligent features. |
+| [Nexus Explorer](https://github.com/BipronathSaha12/nexus-explorer) | Modern discovery platform featuring dynamic filtering, search-driven UX, and API-powered data exploration. |
+| [EventFlow](https://github.com/BipronathSaha12/EventFlow) | End-to-end event management platform with ticketing, scheduling, and role-based user workflows. |
+| [LexiDeck](https://github.com/BipronathSaha12/lexideck-frontend) | Full-stack spaced repetition flashcard app designed for learning efficiency and user engagement. |
+| [PricePulse](https://github.com/BipronathSaha12/PricePulse) | Product monitoring and price tracking platform with dashboards, alerts, and data-driven insights. |
 
 ---
 
-## GitHub Stats & Contribution Graph
+## GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BipronathSaha12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
@@ -108,15 +109,15 @@
 
 ---
 
-## Career Focus & Contact
+## Open to Opportunities
 
-I am actively seeking opportunities as a:
+I am actively looking for roles in:
 
 - Full-Stack Web Developer (Django + React.js)
 - Python Backend Engineer
 - Software Engineer
 
-I build scalable web products with a strong emphasis on clean architecture, secure API design, seamless frontend experiences, and business-focused delivery.
+I enjoy building scalable, clean, and business-focused web products that combine strong engineering fundamentals with real user value.
 
 <p align="center">
   <a href="https://bipronathsaha.vercel.app" target="_blank">Portfolio</a> •
