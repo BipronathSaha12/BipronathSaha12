@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  I build production-grade web applications using Python, Django, Django REST Framework, FastAPI, and React.js.<br>
+  I build production-grade web applications using Python, Django, Django REST Framework, and React.js.<br>
   I design secure APIs, scalable backend systems, and responsive frontends with a strong focus on performance, maintainability, and product impact.<br>
   I work across system design, product delivery, and deployment to turn ideas into reliable digital experiences.
 </p>
